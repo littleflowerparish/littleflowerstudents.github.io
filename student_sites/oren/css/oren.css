@@ -1,0 +1,37 @@
+#navbar ul{
+  margin: 0;
+  padding: 5px;
+  list-style-type: none;
+  text-align: right;
+  background-color: #3399ff;
+}
+
+#navbar ul li{
+  display: inline;
+}
+
+#navbar ul li a{
+  text-decoration: none;
+  padding: .2em 1em;
+  color: #ccffff;
+}
+
+#navbar ul li a:hover {
+  color: #000000
+  background-color: #fff
+}
+
+#bodycolor {
+  background-color: #ff6600;
+}
+
+.column {
+  float:left;
+  width: 50%;
+}
+
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}

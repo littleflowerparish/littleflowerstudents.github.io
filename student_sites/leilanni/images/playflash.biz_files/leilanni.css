@@ -1,0 +1,28 @@
+img {
+  height: 50%;
+}
+
+  #background{
+    background-color: #3399ff;
+  }
+#navbar ul {
+  margin: 0;
+  padding: 5px;
+  list-style-type: none;
+  text-align: left;
+  background-color: #000;
+}
+#navbar ul li{
+     display: inline;
+}
+#navbar ul li a{
+     text-decoration: none;
+     padding: .2em 1em;
+     color: #fff;
+     background-color :#000;
+     font-family: sans-serif;
+}
+#navbar ul li a:hover{
+     color: #000;
+    background-color: #fff;
+}

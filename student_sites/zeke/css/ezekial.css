@@ -1,0 +1,49 @@
+#title {
+  color:#b76e79;
+  padding-left:10%;
+}
+
+#navbar ul {
+  margin: 0;
+  padding: 5px;
+  list-style-type: none;
+  text-align: center;
+  background-color: #000;
+}
+#navbar ul li{
+  display: inlne;
+}
+
+#navbar ul li a {
+  text-decoration: none;
+  padding: .2m 1em;
+  color: #fff;
+  background-color :#000;
+  font-family: sans-serif;
+}
+
+#navbar ul li a:hover {
+  color: #000;
+  background-color: #fff;
+}
+
+.column {
+  float: left;
+  width: 50%;
+}
+
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: gray;
+  color: white;
+  text-align: center;
+  }

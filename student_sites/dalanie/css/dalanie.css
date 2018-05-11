@@ -1,0 +1,35 @@
+#navbar ul{
+margin: 0j
+padding: 5px;
+list-style-type: none;
+text-align: center; left,right
+bacground-color:#000;
+}
+#navbar ul li{
+  display:mline;
+}
+  #navbar ul li{
+    text-decoration:none;
+    padding:2em 1em;
+    color:#fff;
+    background-color: #000;
+    font-family: sans-serif;}
+    #navbar ul li a:hover{
+      color:#000;
+      background-color: #fff;
+ }
+ column {
+   float: left;
+   width: 50%;
+ }
+ row:after {
+content: " ";
+display: table;
+clear: both;
+}
+<div class=" row>
+</div>
+<div class=" column">
+</div>
+<div class=" column ">
+</div>
